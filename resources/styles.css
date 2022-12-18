@@ -133,6 +133,7 @@ nav ul li a{
 }
 nav ul li a:hover{
     font-size: x-large;
+    cursor: pointer;
 }
 .progressbar{
     position: absolute;
